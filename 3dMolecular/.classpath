@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Alexander/Downloads/j3d-core-1.3.1.jar/j3d-core-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexander/Downloads/j3d-1_5_2-windows-amd64/j3d-1_5_2-windows-amd64/j3d-jre.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Alexander/Downloads/vecmath.jar/vecmath.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexander/Downloads/j3dutils.jar/j3dutils.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
